@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Presentations
+parent_type: CourseSection
 parent_uid: e629bc27-940e-34a4-6037-37911fd5c1d0
 title: A Message to Garcia
 uid: 06d46171-36f5-6b10-ce40-c7e94fa48908

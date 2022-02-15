@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schedule of Activities
+parent_type: CourseSection
 parent_uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 title: Tenenbaum and friends salute the Reverend Bayes; Glymour salutes Kepler
 uid: baa1caee-2792-4085-76d6-cd05836ca5d2

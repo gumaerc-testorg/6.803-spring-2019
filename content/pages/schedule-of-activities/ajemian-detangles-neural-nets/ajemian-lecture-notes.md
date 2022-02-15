@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Ajemian detangles neural nets
+parent_type: CourseSection
 parent_uid: 95fee7d1-ffce-cdbf-0fb1-b992ee84bf9b
 title: Ajemian Lecture Notes
 uid: e6383c38-1388-52a9-4eac-88c9e28c0e31

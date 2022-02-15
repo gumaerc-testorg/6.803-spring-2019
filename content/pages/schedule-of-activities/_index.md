@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Schedule of Activities
 uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 ---

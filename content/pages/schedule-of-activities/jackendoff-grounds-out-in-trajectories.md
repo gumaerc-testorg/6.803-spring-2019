@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schedule of Activities
+parent_type: CourseSection
 parent_uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 title: Jackendoff grounds out in trajectories
 uid: 8d4dbc2f-45f1-af9d-b1b6-0e7a4a573ac1

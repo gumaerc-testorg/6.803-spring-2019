@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Grading Marks
 uid: 8476dba8-5e92-b1e6-b09a-74239ce1028c
 ---

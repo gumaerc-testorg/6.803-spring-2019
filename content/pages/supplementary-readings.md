@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Supplementary Readings
 uid: f11d1cd8-c1e2-6993-ddbe-fa729ac42db3
 ---
