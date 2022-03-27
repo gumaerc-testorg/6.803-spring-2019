@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Ajemian detangles neural nets
 parent_type: CourseSection
+parent_uid: 95fee7d1-ffce-cdbf-0fb1-b992ee84bf9b
 resourcetype: Document
 title: Ajemian lecture slides
 uid: 26116dd7-9a50-1fd0-949d-b3aeb7f05033

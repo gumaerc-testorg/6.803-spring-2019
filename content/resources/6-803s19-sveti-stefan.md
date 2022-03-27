@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Jackendoff grounds out in trajectories
 parent_type: CourseSection
+parent_uid: 8d4dbc2f-45f1-af9d-b1b6-0e7a4a573ac1
 resourcetype: Image
 title: Sveti Stefan
 uid: 1b03f723-045e-6950-3c1a-c3de94c49623

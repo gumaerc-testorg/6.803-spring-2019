@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Gergely learns from an infant
 parent_type: CourseSection
+parent_uid: be3305d1-cd79-ceef-2cb4-d572cbaa0203
 resourcetype: Other
 title: Quint template (PowerPoint)
 uid: 90de384d-c7de-4b76-332c-b0272f397918
