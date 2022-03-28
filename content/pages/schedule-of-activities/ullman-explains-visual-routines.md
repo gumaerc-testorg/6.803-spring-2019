@@ -25,9 +25,9 @@ Of course, you need not limit yourself to one side of one sheet of paper for thi
 
 ### Part A
 
-Some advisory committees write reports that consist of an executive summary accompanied by something like 30 slides, which are supplemented by explanatory legends that supply useful detail beyond what is captured in the slides. If the slides are prepared according to 6.803 maxims, the legends are essential, because the slides will be too telegraphic to be understood on their own. The legends range in length from a sentence to a page, tending to peak at a half page. This [sample slide (PDF)]({{< baseurl >}}/resources/mit6_803s19_slide_example), taken from a report of the Naval Research Advisory Committee, illustrates.
+Some advisory committees write reports that consist of an executive summary accompanied by something like 30 slides, which are supplemented by explanatory legends that supply useful detail beyond what is captured in the slides. If the slides are prepared according to 6.803 maxims, the legends are essential, because the slides will be too telegraphic to be understood on their own. The legends range in length from a sentence to a page, tending to peak at a half page. This {{< resource_link 1e99f70b-4e29-80f0-080d-f76e929ae9f2 "sample slide (PDF)" >}}, taken from a report of the Naval Research Advisory Committee, illustrates.
 
-This format is the one to be used for the [project report]({{< baseurl >}}/pages/final-project) for those of you doing projects.
+This format is the one to be used for the {{< resource_link 4ee5a88f-71c2-1530-8d74-0bcac7f725da "project report" >}} for those of you doing projects.
 
 In this exercise, you are to try your hand at an abbreviated version of this format. In particular, you are to provide a slide show report on the thoughts of Ullman, except that:
 

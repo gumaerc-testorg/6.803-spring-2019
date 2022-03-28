@@ -54,6 +54,6 @@ Be sure your goals are detailed and quantified. Also, be sure you do not use the
 
 You may prepare your chart with or without presentation software. To assist you if you do use presentation sofware, we provide templates for
 
-Quad: [Open Office Impress]({{< baseurl >}}/resources/6-803_quad_template) and [Microsoft PowerPoint]({{< baseurl >}}/resources/6-803_quad_template-1).
+Quad: {{< resource_link bbad3c00-71f4-1d0a-ac31-7d7b58089c39 "Open Office Impress" >}} and {{< resource_link ecc002cb-e74e-16c8-9aa1-086850feaa3e "Microsoft PowerPoint" >}}.
 
-Quint: [Open Office Impress]({{< baseurl >}}/resources/6-803_quint_template) and [Microsoft PowerPoint]({{< baseurl >}}/resources/6-803_quint_template-1).
+Quint: {{< resource_link c33b6c87-dcb4-e062-c175-31e04dd187ca "Open Office Impress" >}} and {{< resource_link 90de384d-c7de-4b76-332c-b0272f397918 "Microsoft PowerPoint" >}}.
