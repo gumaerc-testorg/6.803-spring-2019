@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: 'A list of "classics for every aspiring leader''s bookshelf" '
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Supplementary Readings
 uid: f11d1cd8-c1e2-6993-ddbe-fa729ac42db3
 ---

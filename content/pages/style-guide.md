@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: Professor Winston's personal suggestions for style improvement.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Style Guide
 uid: be97edc6-c5d1-bdab-3dc7-bc44be0c4c40
 ---

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -12,7 +13,7 @@ uid: bc81f38b-601b-0bcd-b2a7-29868fd8e6ef
 Paper
 -----
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Causal Reconstruction" (PDF)](https://groups.csail.mit.edu/infolab/publications/Borchardt-AIM1403.pdf) by Gary Borchardt
+["Causal Reconstruction" (PDF)](https://groups.csail.mit.edu/infolab/publications/Borchardt-AIM1403.pdf) by Gary Borchardt
 
 Estimated reading time: 2.0 hours
 

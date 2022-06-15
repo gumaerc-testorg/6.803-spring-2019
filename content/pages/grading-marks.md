@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Grading Marks
 uid: 8476dba8-5e92-b1e6-b09a-74239ce1028c
 ---
@@ -202,7 +202,7 @@ Weaker argument than expected.
 S
 {{< tdclose >}}
 {{< tdopen >}}
-Style objection. See {{< resource_link be97edc6-c5d1-bdab-3dc7-bc44be0c4c40 "style guide" >}}.
+Style objection. See {{% resource_link be97edc6-c5d1-bdab-3dc7-bc44be0c4c40 "style guide" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}

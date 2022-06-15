@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -16,7 +17,7 @@ Paper
 
 Estimated reading time: 1.0 hours
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Bayesian Ptolemaic Psychology" (PDF)](https://perception.jhu.edu/chaz/teaching/courses/tp/files/readings/7/Glymour_2007___Bayesian_ptolemaic_psychology.pdf) by Clark Glymour
+["Bayesian Ptolemaic Psychology" (PDF)](https://perception.jhu.edu/chaz/teaching/courses/tp/files/readings/7/Glymour_2007___Bayesian_ptolemaic_psychology.pdf) by Clark Glymour
 
 Estimated reading time: 45 min, without following the probabilistic calculations step by step
 

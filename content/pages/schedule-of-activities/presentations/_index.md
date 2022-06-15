@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Schedule of Activities
@@ -14,7 +15,7 @@ Reading
 
 Please familiarize yourself with the project descriptions for your section \[Note: Not available to OCW users\], so that you will be better prepared to provide feedback in the coming week.
 
-Once you have read the recommendation letter assignment below, read "{{< resource_link 06d46171-36f5-6b10-ce40-c7e94fa48908 "A Message to Garcia" >}}."
+Once you have read the recommendation letter assignment below, read "{{% resource_link 06d46171-36f5-6b10-ce40-c7e94fa48908 "A Message to Garcia" %}}."
 
 Assignment
 ----------
