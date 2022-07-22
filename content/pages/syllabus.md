@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fa363464-0657-27c0-7fed-f7ec09c2e95f
 ---
@@ -12,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisite
 ------------
 
-[_6.034 Artificial Intelligence_](/courses/6-034-artificial-intelligence-fall-2010/)
+[_6.034 Artificial Intelligence_](/courses/6-034-artificial-intelligence-fall-2010)
 
 Course Description
 ------------------
@@ -86,7 +89,7 @@ Because of the emphasis on reading, discussion, and presentation, enrollment is 
 Credit and Projects
 -------------------
 
-Doing a substantial [project]({{< baseurl >}}/pages/final-project) is required for graduate credit.
+Doing a substantial {{% resource_link 4ee5a88f-71c2-1530-8d74-0bcac7f725da "project" %}} is required for graduate credit.
 
 Frequently Asked Questions
 --------------------------

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schedule of Activities
+parent_type: CourseSection
 parent_uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 title: Jackendoff grounds out in trajectories
 uid: 8d4dbc2f-45f1-af9d-b1b6-0e7a4a573ac1
@@ -20,7 +24,7 @@ Assignment
 
 On a total of one side of one sheet of paper, using 10 pt type or larger, with standard interline spacing and margins, respond to all the following:
 
-![a cluster of old houses on a rocky tombolo](/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2019/schedule-of-activities/jackendoff-grounds-out-in-trajectories/6-803s19-sveti-stefan.jpg)
+{{< resource "1b03f723-045e-6950-3c1a-c3de94c49623" >}}
 
 Sveti Stefan. (Image courtesy of [Michael Jackson](https://www.flickr.com/photos/128134748@N04/15804431195/) on Flickr. License: CC BY-NC-SA.)
 

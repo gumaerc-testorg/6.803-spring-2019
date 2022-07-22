@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schedule of Activities
+parent_type: CourseSection
 parent_uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 title: Turing suggests test for success
 uid: f5b33ce0-5532-9818-ad03-984101ab334b
@@ -27,11 +31,11 @@ Preparation
 
 ### Part A
 
-Read the [Syllabus]({{< baseurl >}}/pages/syllabus) if you have not already, so you will know as much as possible about what 6.803 will be like. If the syllabus or this assignment give you second thoughts, send me an email immediately so we can give your slot to someone else.
+Read the {{% resource_link fa363464-0657-27c0-7fed-f7ec09c2e95f "Syllabus" %}} if you have not already, so you will know as much as possible about what 6.803 will be like. If the syllabus or this assignment give you second thoughts, send me an email immediately so we can give your slot to someone else.
 
 ### Part B
 
-Read the [Style Guide]({{< baseurl >}}/pages/style-guide) carefully.
+Read the {{% resource_link be97edc6-c5d1-bdab-3dc7-bc44be0c4c40 "Style Guide" %}} carefully.
 
 Turing, Side 1
 --------------
@@ -77,7 +81,7 @@ Miscellaneous, Side 2
 
 ### Part A
 
-Read the [Style Guide]({{< baseurl >}}/pages/style-guide) carefully. Then, on the other side of your sheet of paper, criticize the following:
+Read the {{% resource_link be97edc6-c5d1-bdab-3dc7-bc44be0c4c40 "Style Guide" %}} carefully. Then, on the other side of your sheet of paper, criticize the following:
 
 _The author believed “Patrick and Karen drank wine and beer in Miami and Montreal. The former was too cool and the latter was too warm. Since the food was good, however, neither wanted to leave.”_
 

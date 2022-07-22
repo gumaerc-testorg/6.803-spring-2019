@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schedule of Activities
+parent_type: CourseSection
 parent_uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 title: Presentations
 uid: e629bc27-940e-34a4-6037-37911fd5c1d0
@@ -11,7 +15,7 @@ Reading
 
 Please familiarize yourself with the project descriptions for your section \[Note: Not available to OCW users\], so that you will be better prepared to provide feedback in the coming week.
 
-Once you have read the recommendation letter assignment below, read "[A Message to Garcia]({{< baseurl >}}/pages/schedule-of-activities/presentations/a-message-to-garcia)."
+Once you have read the recommendation letter assignment below, read "{{% resource_link 06d46171-36f5-6b10-ce40-c7e94fa48908 "A Message to Garcia" %}}."
 
 Assignment
 ----------

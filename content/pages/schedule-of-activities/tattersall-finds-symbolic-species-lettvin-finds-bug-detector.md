@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schedule of Activities
+parent_type: CourseSection
 parent_uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 title: Tattersall finds symbolic species; Lettvin finds bug detector
 uid: 019bc567-b1e2-764e-4c5b-3700d1a4bddf
@@ -9,9 +13,9 @@ uid: 019bc567-b1e2-764e-4c5b-3700d1a4bddf
 Papers
 ------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["An Evolutionary Framework for the Acquisition of Symbolic Cognition by _Homo sapiens_" (PDF)](http://comparative-cognition-and-behavior-reviews.org/wp/wp-content/uploads/2013/10/vol_3_tattersall.pdf) by Ian Tattersall
+["An Evolutionary Framework for the Acquisition of Symbolic Cognition by _Homo sapiens_" (PDF)](http://comparative-cognition-and-behavior-reviews.org/wp/wp-content/uploads/2013/10/vol_3_tattersall.pdf) by Ian Tattersall
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What the Frog's Eye Tells the Frog's Brain" (PDF)](https://neuromajor.ucr.edu/courses/WhatTheFrogsEyeTellsTheFrogsBrain.pdf) by J. Y. Lettvin, H. R. Maturana, W. S. McCulloch, and W. H. Pitts
+["What the Frog's Eye Tells the Frog's Brain" (PDF)](https://neuromajor.ucr.edu/courses/WhatTheFrogsEyeTellsTheFrogsBrain.pdf) by J. Y. Lettvin, H. R. Maturana, W. S. McCulloch, and W. H. Pitts
 
 Just read I.A and VIII, about 2 pages, to get the flavor of what Lettvin discovered about frogs.
 

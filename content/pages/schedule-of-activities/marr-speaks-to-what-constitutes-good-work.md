@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schedule of Activities
+parent_type: CourseSection
 parent_uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 title: Marr speaks to what constitutes good work
 uid: 2a5c3934-decf-ceca-2169-651477f69920
@@ -9,7 +13,7 @@ uid: 2a5c3934-decf-ceca-2169-651477f69920
 Paper
 -----
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Artificial Intelligence—a personal view" (PDF)](https://cbmm.mit.edu/sites/default/files/documents/marr.pdf) by David Marr
+["Artificial Intelligence—a personal view" (PDF)](https://cbmm.mit.edu/sites/default/files/documents/marr.pdf) by David Marr
 
 Estimated reading time: 30 min
 

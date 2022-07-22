@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The calendar of topics, readings, and assignments for 6.803.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Schedule of Activities
 uid: 00c0bcfd-0dae-62aa-223f-607ebd39a0db
 ---
@@ -43,7 +46,7 @@ Winston reflects on the first 65 years
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Turing suggests test for success]({{< baseurl >}}/pages/schedule-of-activities/turing-suggests-test-for-success)
+{{% resource_link f5b33ce0-5532-9818-ad03-984101ab334b "Turing suggests test for success" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Paper decoding
@@ -58,7 +61,7 @@ Paper decoding
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Minsky provides a problem set]({{< baseurl >}}/pages/schedule-of-activities/minsky-provides-a-problem-set)
+{{% resource_link 4864188c-7847-6a40-6ad4-09784089d669 "Minsky provides a problem set" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Recommendation
@@ -73,7 +76,7 @@ V-S-N-C; Broken glass
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Davis and friends affirm value of representations; Brooks denies value of representations]({{< baseurl >}}/pages/schedule-of-activities/davis-and-friends-affirm-value-of-representations-brooks-denies-value-of-representations)
+{{% resource_link ed1f9868-2deb-d3ae-8fcd-50fce84c1176 "Davis and friends affirm value of representations; Brooks denies value of representations" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Broken glass; For and against
@@ -88,7 +91,7 @@ Red teams
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Marr speaks to what constitutes good work]({{< baseurl >}}/pages/schedule-of-activities/marr-speaks-to-what-constitutes-good-work)
+{{% resource_link 2a5c3934-decf-ceca-2169-651477f69920 "Marr speaks to what constitutes good work" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Talking points; Contributions
@@ -103,7 +106,7 @@ Talking points
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Tenenbaum and friends salute the Reverend Bayes; Glymour salutes Kepler]({{< baseurl >}}/pages/schedule-of-activities/tenenbaum-and-friends-salute-the-reverend-bayes-glymour-salutes-kepler)
+{{% resource_link baa1caee-2792-4085-76d6-cd05836ca5d2 "Tenenbaum and friends salute the Reverend Bayes; Glymour salutes Kepler" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Panel preparation
@@ -118,7 +121,7 @@ How to run a panel
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Hinton launches third wave]({{< baseurl >}}/pages/schedule-of-activities/hinton-launches-third-wave)
+{{% resource_link f5ac1217-d0de-e761-2f4b-2acedcc63f38 "Hinton launches third wave" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 White paper
@@ -133,7 +136,7 @@ Improvement through knowledge engineering
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Borchardt focuses on transitions]({{< baseurl >}}/pages/schedule-of-activities/borchardt-focuses-on-transitions)
+{{% resource_link bc81f38b-601b-0bcd-b2a7-29868fd8e6ef "Borchardt focuses on transitions" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Update letter
@@ -148,7 +151,7 @@ Details sell; Winston's star
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Jackendoff grounds out in trajectories]({{< baseurl >}}/pages/schedule-of-activities/jackendoff-grounds-out-in-trajectories)
+{{% resource_link 8d4dbc2f-45f1-af9d-b1b6-0e7a4a573ac1 "Jackendoff grounds out in trajectories" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Trip report
@@ -163,7 +166,7 @@ Interviews
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Ullman explains visual routines]({{< baseurl >}}/pages/schedule-of-activities/ullman-explains-visual-routines)
+{{% resource_link 34bf9baf-a2b0-ce7e-03e9-b6c60ab5c129 "Ullman explains visual routines" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Study report
@@ -178,7 +181,7 @@ How to run a study
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Larson grounds symbols in perception]({{< baseurl >}}/pages/schedule-of-activities/larson-grounds-symbols-in-perception)
+{{% resource_link 6db94f31-1d4b-ddfc-0d27-513e8727aa1a "Larson grounds symbols in perception" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Press release
@@ -193,7 +196,7 @@ How to write a press release
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Spelke explains how to turn MIT students into rats; Fedorenko explains we don't need language to think]({{< baseurl >}}/pages/schedule-of-activities/spelke-explains-how-to-turn-mit-students-into-rats-fedorenko-explains-we-dont-need-language-to-think)
+{{% resource_link e3a6794e-19e1-eea1-8a1a-b1547f39de3b "Spelke explains how to turn MIT students into rats; Fedorenko explains we don't need language to think" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Speaker evaluation
@@ -208,7 +211,7 @@ How to make decisions
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Berwick & Chomsky explain how we are different]({{< baseurl >}}/pages/schedule-of-activities/berwick-chomsky-explain-how-we-are-different)
+{{% resource_link 9b0a73d5-674c-471b-54aa-40065538602e "Berwick & Chomsky explain how we are different" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Interview
@@ -223,7 +226,7 @@ Mimicry
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Tattersall finds symbolic species; Lettvin finds bug detector]({{< baseurl >}}/pages/schedule-of-activities/tattersall-finds-symbolic-species-lettvin-finds-bug-detector)
+{{% resource_link 019bc567-b1e2-764e-4c5b-3700d1a4bddf "Tattersall finds symbolic species; Lettvin finds bug detector" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Amnesty assignment
@@ -238,7 +241,7 @@ Applied ethics
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Minsky predicts important role for perception]({{< baseurl >}}/pages/schedule-of-activities/minsky-predicts-important-role-for-perception)
+{{% resource_link dc769ccb-825b-fc12-85a2-1d6fc43c058b "Minsky predicts important role for perception" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Review
@@ -268,7 +271,7 @@ Merge revisited
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[McIntyre builds contortionist]({{< baseurl >}}/pages/schedule-of-activities/mcintyre-builds-contortionist)
+{{% resource_link dd6dd280-8f29-5a66-9a1d-2e62e6a51e89 "McIntyre builds contortionist" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Nomination letter
@@ -283,7 +286,7 @@ How to do slides
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Gergely learns from an infant]({{< baseurl >}}/pages/schedule-of-activities/gergely-learns-from-an-infant)
+{{% resource_link be3305d1-cd79-ceef-2cb4-d572cbaa0203 "Gergely learns from an infant" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Quad chart
@@ -298,7 +301,7 @@ Selling it; Product introductions
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Minsky gets emotional]({{< baseurl >}}/pages/schedule-of-activities/minsky-gets-emotional)
+{{% resource_link f5debc9f-c892-25b3-88d6-83bbddf18348 "Minsky gets emotional" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Op ed
@@ -313,7 +316,7 @@ How to construct posters
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Winston & Holmes tell a story]({{< baseurl >}}/pages/schedule-of-activities/winston-holmes-tell-a-story)
+{{% resource_link 1d728160-30da-44ae-91bf-62f8a1b83ebf "Winston & Holmes tell a story" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Poster
@@ -328,7 +331,7 @@ Poster
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Ajemian detangles neural nets]({{< baseurl >}}/pages/schedule-of-activities/ajemian-detangles-neural-nets)
+{{% resource_link 95fee7d1-ffce-cdbf-0fb1-b992ee84bf9b "Ajemian detangles neural nets" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Curriculum design
@@ -343,7 +346,7 @@ Curriculum design
 22 and 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Presentations]({{< baseurl >}}/pages/schedule-of-activities/presentations)
+{{% resource_link e629bc27-940e-34a4-6037-37911fd5c1d0 "Presentations" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Recommendation/Presentation/Suggestions
