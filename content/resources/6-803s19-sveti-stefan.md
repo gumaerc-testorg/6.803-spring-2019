@@ -9,6 +9,7 @@ image_metadata:
     on Flickr. License: CC BY-NC-SA.'
   image-alt: A cluster of old houses on a tombolo.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jackendoff grounds out in trajectories
 parent_type: CourseSection

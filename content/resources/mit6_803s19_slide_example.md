@@ -5,6 +5,7 @@ file: /courses/6-803-the-human-intelligence-enterprise-spring-2019/1e99f70b4e298
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Project
 parent_type: CourseSection
