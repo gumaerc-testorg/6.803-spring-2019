@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-803-the-human-intelligence-enterprise-spring-2019/bbad3c0071f41d0aac317d7b58089c39_6.803_quad_template.odp
+file_size: 41181
 file_type: application/vnd.oasis.opendocument.presentation
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
