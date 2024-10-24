@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: Description of a written assignment for 6.803.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +12,7 @@ uid: 4864188c-7847-6a40-6ad4-09784089d669
 ---
 ## Paper
 
-"[Steps toward Artificial Intelligence](https://web.media.mit.edu/~minsky/papers/steps.html)" by Marvin Minsky
+"[Steps toward Artificial Intelligence](https://doi.org/10.1109/JRPROC.1961.287775)" by Marvin Minsky
 
 Estimated reading time: 2.0 hours
 
