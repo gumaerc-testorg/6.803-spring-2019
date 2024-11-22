@@ -29,7 +29,7 @@ Alex Krizhevsky, Illya Sutskever, and Geoffrey E. Hinton (2012), ["ImageNet Clas
 
 Stephen Larson (2003), ["Intrinsic Representation: Bootstrapping Symbols From Experience" (PDF)](http://groups.csail.mit.edu/genesis/papers/Larson2003.pdf). MIT thesis.
 
-J. Y. Lettvin, H. R. Maturana, W. S. McCulloch, and W. H. Pitts (1968), ["What the Frog's Eye Tells the Frog's Brain" (PDF)](https://neuromajor.ucr.edu/courses/WhatTheFrogsEyeTellsTheFrogsBrain.pdf) in *The Mind: Biological Approaches to its Functions*, William C. Corning and Martin Balaban (eds.). Wiley & Sons. ISBN: 9780470174937.
+J. Y. Lettvin, H. R. Maturana, W. S. McCulloch, and W. H. Pitts (1968), "What the Frog's Eye Tells the Frog's Brain" in *The Mind: Biological Approaches to its Functions*, William C. Corning and Martin Balaban (eds.). Wiley & Sons. ISBN: 9780470174937.
 
 David Marr (1976), ["Artificial Intelligence - A Personal View" (PDF)](https://cbmm.mit.edu/sites/default/files/documents/marr.pdf).
 
