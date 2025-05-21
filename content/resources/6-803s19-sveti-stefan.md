@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-803-the-human-intelligence-enterprise-spring-2019/1b03f723045e69503c1ac3de94c49623_6-803s19-sveti-stefan.jpg
+file: /courses/6-803-the-human-intelligence-enterprise-spring-2019/1b03f723045e69503c1ac3de94c49623_6-803s19-sveti-stefan.jpg
 file_size: 152418
 file_type: image/jpeg
 image_metadata:

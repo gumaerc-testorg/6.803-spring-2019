@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-803-the-human-intelligence-enterprise-spring-2019/c33b6c87dcb4e062c17531e04dd187ca_6.803_quint_template.odp
+file: /courses/6-803-the-human-intelligence-enterprise-spring-2019/c33b6c87dcb4e062c17531e04dd187ca_6.803_quint_template.odp
 file_size: 167903
 file_type: application/vnd.oasis.opendocument.presentation
 learning_resource_types: []
