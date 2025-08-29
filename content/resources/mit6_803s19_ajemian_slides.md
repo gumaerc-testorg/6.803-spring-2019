@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides from a guest lecture by Robert Ajemian
-file: /courses/6-803-the-human-intelligence-enterprise-spring-2019/26116dd79a501fd0949db3aeb7f05033_MIT6_803S19_ajemian_slides.pdf
+file: /ol-ocw-studio-app/courses/6-803-the-human-intelligence-enterprise-spring-2019/26116dd79a501fd0949db3aeb7f05033_MIT6_803S19_ajemian_slides.pdf
 file_size: 338555
 file_type: application/pdf
 learning_resource_types: []
