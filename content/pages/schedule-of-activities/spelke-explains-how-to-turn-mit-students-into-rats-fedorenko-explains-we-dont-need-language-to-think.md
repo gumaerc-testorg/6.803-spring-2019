@@ -16,11 +16,11 @@ Paper
 
 Core of the assignment:
 
-"[Sources of flexibility in human cognition: dual-task studies of space and language](https://www.ncbi.nlm.nih.gov/pubmed/10433786)" by Linda Hermer-Vazquez, Elizabeth S. Spelke, and Alla S. Katsnelson.
+"{{% resource_link "f6bc4b2a-400a-4133-832e-ac4e8c2c210e" "Sources of flexibility in human cognition: dual-task studies of space and language" %}}" by Linda Hermer-Vazquez, Elizabeth S. Spelke, and Alla S. Katsnelson.
 
 Estimated reading time: 1.5 hours
 
-"[Language and thought are not the same thing: evidence from neuroimaging and neurological patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874898/)" by Evelina Fedorenko and Rosemary Varley
+"{{% resource_link "58144c6d-ec80-447c-b73f-cb20ef3d6cbf" "Language and thought are not the same thing: evidence from neuroimaging and neurological patients" %}}" by Evelina Fedorenko and Rosemary Varley
 
 Estimated reading time: 1.0 hours
 
@@ -31,7 +31,7 @@ Assignment
 
 On a total of one side of one sheet of paper, using 10 pt type or larger, with standard interline spacing and margins, respond to all the following:
 
-Planning ahead for fall, Winston has decided to continue the tradition of "[Right Now](http://web.mit.edu/fnl/volume/254/winston.html)" speakers who talk about their recent work. One of those speakers will be either Spelke (you are to imagine she just finished her paper) or Fedorenko.
+Planning ahead for fall, Winston has decided to continue the tradition of "{{% resource_link "55c090b0-d942-46ca-867b-0e8b48004beb" "Right Now" %}}" speakers who talk about their recent work. One of those speakers will be either Spelke (you are to imagine she just finished her paper) or Fedorenko.
 
 He supposes that the best way to decide would be to read through the two papers. Unfortunately, he is too busy. He asks you to send a recommendation via email using the following template:
 
