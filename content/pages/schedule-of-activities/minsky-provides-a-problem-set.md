@@ -12,7 +12,7 @@ uid: 4864188c-7847-6a40-6ad4-09784089d669
 ---
 ## Paper
 
-"[Steps toward Artificial Intelligence](https://doi.org/10.1109/JRPROC.1961.287775)" by Marvin Minsky
+"{{% resource_link "86731786-cc3c-43aa-add0-eee2eeb7882e" "Steps toward Artificial Intelligence" %}}" by Marvin Minsky
 
 Estimated reading time: 2.0 hours
 
