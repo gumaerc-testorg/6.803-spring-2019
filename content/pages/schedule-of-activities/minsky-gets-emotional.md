@@ -13,11 +13,11 @@ uid: f5debc9f-c892-25b3-88d6-83bbddf18348
 Paper
 -----
 
-Marvin Minsky, _The Emotion Machine_ [Part IV](http://web.media.mit.edu/~minsky/eb4.html)
+Marvin Minsky, _The Emotion Machine_ {{% resource_link "91f50a18-2f3e-48b7-8110-fbe6f15e117f" "Part IV" %}}
 
 Estimated reading time: 55 min
 
-Marvin Minsky, _The Emotion Machine_ [Part V](http://web.media.mit.edu/~minsky/eb5.html)
+Marvin Minsky, _The Emotion Machine_ {{% resource_link "8df4024f-cbc2-4f17-bf61-a89d6fe991d4" "Part V" %}}
 
 Estimated reading time: 45 min
 

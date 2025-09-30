@@ -13,7 +13,7 @@ The titles listed below, though not required, are classics that merit a place on
 
 You cannot lead if you cannot communicate. A corollary is that you should hone your communication skills for the rest of your life.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262539388) *Make It Clear: Speak and Write to Persuade and Inform*, Patrick Henry Winston. MIT Press, 2020. ISBN: 9780262539388.
+{{% resource_link "00ab5780-bbdd-415c-a2b2-fa78ffbc95d9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} *Make It Clear: Speak and Write to Persuade and Inform*, Patrick Henry Winston. MIT Press, 2020. ISBN: 9780262539388.
 
 *Make It Clear* is 6.803 on paper, both more and less. More on communication, less on leadership.
 
@@ -83,7 +83,7 @@ Chesterfield wrote his letters in the first half of the eighteenth century, but 
 
 We didn't amount to much before 70,000 years ago. Tattersall explains that we became symbolic.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262533492) *Why Only Us: Language and Evolution*, reprint edition, Robert C. Berwick and Noam Chomsky. MIT Press, 2017. ISBN: 9780262533492.
+{{% resource_link "5b5bb2ab-1577-4ceb-b9f9-138c314eb1fe" "![Buy at MIT Press](/images/mp_logo.gif)" %}} *Why Only Us: Language and Evolution*, reprint edition, Robert C. Berwick and Noam Chomsky. MIT Press, 2017. ISBN: 9780262533492.
 
 Berwick and Chomsky refine Tattersall by explaining that we got an operation, merge, evidently missing in other species. Merge matters, in my view, because it enables story composition.
 
@@ -95,6 +95,6 @@ You cannot actually put these on a bookshelf, but they are useful nevertheless:
 
 A talk given annually at MIT. Some attend multiple times. The record so far is said to be greater than 10.
 
-["Give Me Liberty or Give Me Death,"](https://avalon.law.yale.edu/18th_century/patrick.asp) Patrick Henry.
+{{% resource_link "1e8493c5-8d2b-4f13-a379-f14c90327ea3" "\"Give Me Liberty or Give Me Death,\"" %}} Patrick Henry.
 
 If you are thinking of starting a revolution, read Henry's speech and adapt it to your purpose.

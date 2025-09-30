@@ -13,7 +13,7 @@ uid: 2a5c3934-decf-ceca-2169-651477f69920
 Paper
 -----
 
-["Artificial Intelligence—a personal view" (PDF)](https://cbmm.mit.edu/sites/default/files/documents/marr.pdf) by David Marr
+{{% resource_link "4122777a-89f6-428b-ac1a-97d92e2e33f7" "\"Artificial Intelligence—a personal view\" (PDF)" %}} by David Marr
 
 Estimated reading time: 30 min
 
