@@ -18,7 +18,7 @@ Note that the Rules of Engagement in 6.803 are the same as those in 6.034: show 
 Paper
 -----
 
-{{% resource_link "a3f54b9f-09c4-4362-abb9-204954cbb6a6" "\"Computing Machinery and Intelligence\"" %}} by A. M. Turing
+["Computing Machinery and Intelligence"](https://academic.oup.com/mind/article/LIX/236/433/986238) by A. M. Turing
 
 (Note: Turing's paper was originally published in 1950.)
 

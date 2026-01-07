@@ -15,15 +15,15 @@ Papers
 
 \[Note: Read the assignment before you read the papers.\]
 
-{{% resource_link "56e92ea2-6e42-44f2-b744-8fdaf5b0a6ac" "\"ImageNet Classification with Deep Convolutional Neural Networks\" (PDF)" %}} by Alex Krizhevsky, Illya Sutskever, and Geoffrey E. Hinton.
+["ImageNet Classification with Deep Convolutional Neural Networks" (PDF)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) by Alex Krizhevsky, Illya Sutskever, and Geoffrey E. Hinton.
 
 Estimated reading time: 20 min
 
-{{% resource_link "9b5974ac-6f8c-437f-95e7-b826e35afe56" "\"Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images\" (PDF)" %}} by Anh Nguyen, Jason Yosinsky, and Jeff Clune
+["Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images" (PDF)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf) by Anh Nguyen, Jason Yosinsky, and Jeff Clune
 
 Estimated reading time: 30 min
 
-{{% resource_link "4c35bb01-a493-40a3-8c2f-368138523298" "\"Mastering the game of Go with deep neural networks and tree search\"" %}} by David Silver et al.
+["Mastering the game of Go with deep neural networks and tree search"](https://www.nature.com/articles/nature16961) by David Silver et al.
 
 Estimated reading time: 30 min (not including optional Methods section)
 

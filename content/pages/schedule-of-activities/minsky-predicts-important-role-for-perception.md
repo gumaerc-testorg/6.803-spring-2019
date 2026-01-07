@@ -13,7 +13,7 @@ uid: dc769ccb-825b-fc12-85a2-1d6fc43c058b
 Paper
 -----
 
-"{{% resource_link "6f0cb72b-bba5-4db3-a23f-143178f88a32" "K-Lines: A Theory of Memory" %}}" by Marvin Minsky.
+"[K-Lines: A Theory of Memory](https://dspace.mit.edu/handle/1721.1/5739)" by Marvin Minsky.
 
 Estimated reading time: 50 min
 
