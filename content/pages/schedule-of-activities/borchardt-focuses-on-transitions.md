@@ -13,7 +13,7 @@ uid: bc81f38b-601b-0bcd-b2a7-29868fd8e6ef
 Paper
 -----
 
-{{% resource_link "91d7f93f-b56d-42c2-8f8e-f526cd85963b" "\"Causal Reconstruction\" (PDF)" %}} by Gary Borchardt
+["Causal Reconstruction" (PDF)](https://groups.csail.mit.edu/infolab/publications/Borchardt-AIM1403.pdf) by Gary Borchardt
 
 Estimated reading time: 2.0 hours
 
@@ -26,6 +26,6 @@ On a total of one side of one sheet of paper, using 10 pt type or larger, with s
 
 You have just had another academic dream. In your dream, you are Gary Borchardt, Patrick Winston's graduate student. For your entire graduate career, you have thought from time to time about making an appointment to see him, but you somehow never got around to it.
 
-Nevertheless, you have just finished your PhD thesis, the night before the actual deadline (not the official deadline), so you are worried that he may not have time to read it and might be sore because he doesn't know who you are. You decide to write a summary, in the form of a letter of introduction, introducing yourself and outlining what you have done. You also suggest that you would be pleased to be a post-doc in Winston's {{% resource_link "6548fd97-d25a-4f4f-9d5b-aa67cc26ba28" "Genesis Group" %}}.
+Nevertheless, you have just finished your PhD thesis, the night before the actual deadline (not the official deadline), so you are worried that he may not have time to read it and might be sore because he doesn't know who you are. You decide to write a summary, in the form of a letter of introduction, introducing yourself and outlining what you have done. You also suggest that you would be pleased to be a post-doc in Winston's [Genesis Group](https://groups.csail.mit.edu/genesis/people.html).
 
 Write the required letter, making full use of what you have learned so far in 6.803.
