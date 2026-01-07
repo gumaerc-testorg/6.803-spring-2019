@@ -13,7 +13,7 @@ uid: dd6dd280-8f29-5a66-9a1d-2e62e6a51e89
 Paper
 -----
 
-"{{% resource_link "c5b64b0b-28c6-448e-b5e2-0f259f58541f" "Recognizing actions using embodiment and empathy" %}}" by Robert McIntyre
+"[Recognizing actions using embodiment and empathy](https://dspace.mit.edu/handle/1721.1/91697)" by Robert McIntyre
 
 Assignment
 ----------
